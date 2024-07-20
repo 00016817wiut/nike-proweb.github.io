@@ -241,7 +241,7 @@ a {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  gap: 170px;
+  gap: 70px;
 }
 .footer__social-links ul {
   display: flex;
